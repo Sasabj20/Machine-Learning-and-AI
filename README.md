@@ -6,8 +6,7 @@ df = pd.DataFrame({
     'A': [1, 2, np.nan, 4],
     'B': [5, np.nan, 7, 8],
     'C': [9, np.nan, 11, np.nan]
-    'D': [np-nan, np.nan, 7, 8],
-})
+    })
 
 # calculate the mean of each column
 # fill NaN values with the mean of each column
